@@ -1,0 +1,1 @@
+sudo cat /var/log/nginx/access.log | grep ^{ | alp json
